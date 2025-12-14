@@ -3,7 +3,6 @@ Backend Technical Task
 
 This repository contains my own implementation of a backend technical task, focusing on practical API development, logical problem solving, and SQL fundamentals.
 
-What I Implemented
  # Task Management API
 
 Built a REST API to create, list, and delete tasks
