@@ -32,7 +32,6 @@ SQL JOINs
 
 Clean code principles
 
-Author
+# Author
 
 Mohamed Adel
-Computer Science Student | Backend-Oriented Developer
